@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WxmlMaster_V3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WxmlMaster_V3_jar</output-path>
+    <root id="archive" name="WxmlMaster_V3.jar">
+      <element id="module-output" name="WxmlMaster_V3" />
+    </root>
+  </artifact>
+</component>

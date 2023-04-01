@@ -1,0 +1,8 @@
+package Reflection;
+
+/**
+ *
+ */
+public enum FieldType {
+   PRIMITIVE,COLLECTION,ARRAY,USER_DEFINEDCLASS,USER_DEFINEDARRAY,HASHMAP,GENERIC;
+}
